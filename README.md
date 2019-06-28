@@ -1,1 +1,1 @@
-# TensorFlow.js - Crash Course - Handwriting Recognition
+# TensorFlow.js - Handwriting Recognition
